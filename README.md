@@ -1,2 +1,2 @@
 # brentgfox.github.io
-Web Site
+This is Brent's personal web site, opinions are my own. He/him.
